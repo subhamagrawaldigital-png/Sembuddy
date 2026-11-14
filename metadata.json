@@ -1,0 +1,6 @@
+{
+  "name": "SemBuddy",
+  "description": "Prepare your university assignments in just 2 minutes. Upload your questions, preview for free, and download formatted A4 PDF and editable DOCX documents.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
